@@ -1,0 +1,9 @@
+Flask
+gunicorn
+requests
+flask-cors
+pandas
+numpy==1.19.3
+matplotlib
+xlrd==1.2.0
+openpyxl

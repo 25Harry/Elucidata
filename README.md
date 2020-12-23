@@ -1,4 +1,4 @@
-# Elucidata-Assignment
+# Elucidata
 
 > Flask Server to process excel file and return sorted versions
 
